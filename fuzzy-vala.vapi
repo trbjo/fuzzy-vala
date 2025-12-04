@@ -1,4 +1,4 @@
-namespace FuzzyGnome {
+namespace FuzzyVala {
     [Compact]
     [CCode (cname = "needle_info", free_function = "free_string_info", cheader_filename = "match.h", has_type_id = false)]
     public class StringInfo {
